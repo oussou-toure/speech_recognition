@@ -1,0 +1,15 @@
+Checkpoint Objective
+Improve the Speech Recognition App
+
+In this exercise, you will improve the Speech Recognition App by adding some features to enhance its functionality.
+
+Instructions
+1. Add a feature to allow the user to select the speech recognition API to use, in addition to Google Speech Recognition. Some possible APIs to consider include Microsoft Azure Speech Services, Amazon Transcribe, and IBM Watson Speech to Text.
+2.Improve the error handling in the transcribe_speech() function to provide more meaningful error messages to the user.
+3. Add a feature to allow the user to save the transcribed text to a file.
+4. Add a feature to allow the user to choose the language they are speaking in, and configure the speech recognition API to use that language.
+4. Add a feature to allow the user to pause and resume the speech recognition process.
+
+Note:
+
+When adding new features, be sure to test the app thoroughly to ensure that it is working correctly. Also, consider the user experience and design the app to be intuitive and easy to use. Finally, if you encounter any issues or challenges, don't hesitate to consult the documentation or seek help from the community.
